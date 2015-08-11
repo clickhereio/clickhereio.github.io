@@ -3,7 +3,7 @@ title: ClickHere Blog
 header-img: img/clickhere.png
 email: hello@clickhere.io
 description: "Blog dedicated to tips and tricks for higher converting emails"
-baseurl: "../"
+baseurl: "http://clickhereio.github.io"
 url: "http://clickhereio.github.io"
 twitter_username: clickhereio
 github_username:  clickhereio
