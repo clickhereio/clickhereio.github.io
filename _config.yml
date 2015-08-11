@@ -3,7 +3,7 @@ title: ClickHere Blog
 header-img: img/home-bg.jpg
 email: hello@clickhere.io
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/"
+baseurl: "."
 url: "http://clickhereio.github.io"
 twitter_username: clickhereio
 github_username:  clickhereio
