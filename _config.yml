@@ -1,8 +1,8 @@
 # Site settings
 title: ClickHere Blog
-header-img: img/home-bg.jpg
+header-img: img/clickhere.png
 email: hello@clickhere.io
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Blog dedicated to tips and tricks for higher converting emails"
 baseurl: "."
 url: "http://clickhereio.github.io"
 twitter_username: clickhereio
