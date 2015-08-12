@@ -11,7 +11,7 @@
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
     <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}"/>
-    <meta property="og:image" content="{{ site.url }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}"/>
+    <meta property="og:image" content="{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"/>
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
     <meta property="og:site_name" content="Email Conversion Tips & Tricks"/>
     <meta property="og:type" content="blog"/>
