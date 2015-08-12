@@ -5,8 +5,8 @@
     <description>Blog dedicated to tips and tricks for higher converting emails</description>
     <link>http://blog.clickhere.io/</link>
     <atom:link href="http://blog.clickhere.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Aug 2015 19:08:38 +0500</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2015 19:08:38 +0500</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2015 19:59:47 +0500</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2015 19:59:47 +0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -77,6 +77,64 @@
 &lt;p&gt;“Subscribe &amp;amp; Save” vs “View Subscription Options”: +181% increase&lt;/p&gt;
 &lt;p&gt;“Get Started” vs “See How Sermo Works”: +104% increase&lt;/p&gt;
 &lt;p&gt;This study tells that we should avoid selling anything but the click within our emails.  All you&#39;re trying to do is take your subscribers to a landing page.  Let that landing page do the selling! This strategy allows us to give value to our readers at low or no cost in return for the click, which is really all we should be trying to achieve in our emails.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;javascript:void(0);&quot; id=&quot;showForm&quot;&gt;Click Here to Download Free Email template&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- Sign-up Modal --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;signUp&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+    &lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+        &lt;div class=&quot;modal-content&quot;&gt;
+            &lt;div class=&quot;closeicon&quot; data-dismiss=&quot;modal&quot; aria-hidden=&quot;true&quot;&gt;            
+            &lt;/div&gt;
+            &lt;div class=&quot;modal-body&quot;&gt;
+                &lt;div class=&quot;row&quot;&gt;
+                    &lt;div class=&quot;col-md-12&quot;&gt;
+                        &lt;div class=&quot;progress&quot;&gt;
+                            &lt;div class=&quot;progress-bar progress-bar-danger progress-bar-striped active&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 50%&quot;&gt;
+                                One More Step...
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;row&quot;&gt;
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;text-center&quot;&gt;
+                            &lt;img class=&quot;img-responsive&quot; src=&quot;/img/popup-example.png&quot; width=&quot;100%&quot; style=&quot;margin:0 auto;&quot; /&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-sm-8&quot;&gt;
+                        &lt;div class=&quot;lead&quot;&gt;
+                            Just let us know where to send it:  enter your name and email below and we&#39;ll send you the template and instructions immediately.
+                        &lt;/div&gt;
+                        &lt;form class=&quot;&quot; action=&quot;http://ignitionhub.activehosted.com/proc.php&quot; method=&quot;post&quot; id=&quot;_form_1178&quot; accept-charset=&quot;utf-8&quot; enctype=&quot;multipart/form-data&quot;&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;f&quot; value=&quot;1178&quot; /&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;s&quot; value=&quot;&quot; /&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;c&quot; value=&quot;0&quot; /&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;m&quot; value=&quot;0&quot; /&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;act&quot; value=&quot;sub&quot; /&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;nlbox[]&quot; value=&quot;10&quot; /&gt;
+                          &lt;input type=&quot;hidden&quot; name=&quot;field[1]&quot; value=&quot;email-template&quot; /&gt;
+                            &lt;div class=&quot;form-group form-group-lg&quot;&gt;
+                              &lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;fullname&quot; placeholder=&quot;Your Name&quot; /&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;form-group form-group-lg&quot;&gt;
+                              &lt;input type=&quot;email&quot; class=&quot;form-control&quot; name=&quot;email&quot; placeholder=&quot;Your Best Email Address&quot; /&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;form-group&quot;&gt;
+                                &lt;button type=&quot;submit&quot; class=&quot;btn btn-block btn-danger btn-lg&quot;&gt;Send The Template Right Away!&lt;/button&gt;
+                                &lt;div class=&quot;text-center&quot;&gt;&lt;small&gt;&lt;i class=&quot;fa fa-lock&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;We promise never to sell or rent your email address to anyone...ever.&lt;/small&gt;&lt;/div&gt;
+                            &lt;/div&gt;                                
+                            &lt;!-- &lt;div class=&quot;form-group&quot;&gt;
+                                &lt;a href=&quot;https://gumroad.com/l/DGNVs&quot; class=&quot;btn btn-block btn-success btn-lg&quot; &gt;Pre-Order Now!&amp;nbsp;&amp;nbsp;&lt;i class=&quot;fa fa-angle-double-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                            &lt;/div&gt; --&gt;                                
+                        &lt;/form&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.modal-content --&gt;
+    &lt;/div&gt;&lt;!-- /.modal-dialog --&gt;
+&lt;/div&gt;
+&lt;!-- /.modal --&gt;
 </description>
         <pubDate>Sat, 15 Aug 2015 17:00:00 +0500</pubDate>
         <link>http://blog.clickhere.io/0815/indispensable-guide-to-using-calls-to-action</link>
