@@ -6,8 +6,11 @@ description: "Create Higher Converting Emails with ClickHere.io"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
+        <div class="post-img" style="background-image: url('{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+            <h2 class="post-title">
+                {{ post.title }}
+            </h2>
+        </div>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}

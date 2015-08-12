@@ -5,270 +5,82 @@
     <description>Blog dedicated to tips and tricks for higher converting emails</description>
     <link>http://clickhereio.github.io/</link>
     <atom:link href="http://clickhereio.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Aug 2015 21:27:18 +0500</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2015 21:27:18 +0500</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2015 13:30:50 +0500</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2015 13:30:50 +0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Man must explore, and this is exploration at its greatest</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>Indispensable Guide To Using Calls-To-Action In Your Emails</title>
+        <description>&lt;p&gt;Every single email service provides CTR (Click-Through-Rate) analytics.  Ever wonder why? &lt;/p&gt;
+&lt;p&gt;Obviously, CTR is the single most important factor that determines the success of your email campaign.  Without knowing your Click-Through Rate, you have no idea how effective your emails are performing.&lt;/p&gt;
+&lt;p&gt;In email campaigns, “Calls-To-Action” are directly responsible for determining CTR. Using higher converting Calls-To-Action inside of your email is more of art than science. A well crafted Call-To-Action may bring more conversion to your emails; and good news is that it is not as hard as you might think to build one.&lt;/p&gt;
+&lt;p&gt;This post will mainly focus on button-based Calls-To-Action, but there are many different types of elements that can be used inside of your emails as well.&lt;/p&gt;
+&lt;p&gt;(&lt;strong&gt;Note:&lt;/strong&gt; Look for a quick “&lt;strong&gt;DO’s and DON’Ts Cheat Sheet&lt;/strong&gt;” I’ve created for you at the end of this post!)&lt;/p&gt;
+&lt;p&gt;A great email marketer once said,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;&lt;em&gt;“If you want people to click, use buttons.”&lt;/em&gt;&lt;/strong&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are plenty of case studies on the topic. &lt;a href=&quot;https://www.campaignmonitor.com/blog/post/4275/buttons-email-marketing-campaigns&quot;&gt;Campaign Monitor&lt;/a&gt;, for example, got a 28% increase on Click-Throughs when they A/B tested emails with and without buttons.&lt;/p&gt;
+&lt;p&gt;To make things easy, here are the key factors that are important in building higher converting Calls-To-Action:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use “Bulletproof Buttons”&lt;/li&gt;
+&lt;li&gt;Decide on placement&lt;/li&gt;
+&lt;li&gt;Make it standout&lt;/li&gt;
+&lt;li&gt;Keep it concise&lt;/li&gt;
+&lt;li&gt;Avoid multiple call to actions&lt;/li&gt;
+&lt;li&gt;Offer value at low or no cost&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Use “Bulletproof Buttons”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;According to a research by &lt;a href=&quot;https://litmus.com/blog/gmail-data-analysis-reveals-image-blocking-affects-43-of-emails&quot;&gt;Litmus&lt;/a&gt;, 43% of all Gmail users view emails with images off. This shows the importance of using a button without images as your Call-To-Action. At same time, your button should be visually pleasing.&lt;/p&gt;
+&lt;p&gt;This means you should use HTML based buttons. With very little know-how, you can achieve really nice looking buttons.&lt;/p&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+&lt;img src=&quot;https://41.media.tumblr.com/728bb2d09657a79d40d0c28e43a97f54/tumblr_inline_nsv925DC3R1tzfl66_540.png&quot; alt=&quot;Bulletproof Buttons&quot; style=&quot;display:inline;&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Different button examples that can be generated using HTML and CSS&lt;/span&gt;
+&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Just make sure they are not based on images, or no one may see them!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Decide on placement&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Calls-To-Action button placement is very important. According to a research conducted by &lt;a href=&quot;https://canopylabs.com/blog/optimizing-e-mail-click-rates-how-to-structure-a-call-to-action&quot;&gt;Canopylabs&lt;/a&gt;, the best place to place your button is at the very bottom of your email, immediately after pitching your message. When they changed the placement of button from “right” to “bottom”, it increased the performance by 143%.&lt;/p&gt;
+&lt;p&gt;Bottom placement makes it very easy for your prospect to take an immediate action after reading your message.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Make it standout&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Design the email so the invitation to take action truly emerges. Examine the illustration underneath.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+&lt;img src=&quot;https://36.media.tumblr.com/26a780915b508bad5c9cb7f824124a19/tumblr_inline_nsv9pc5ZPp1tzfl66_540.jpg&quot; alt=&quot;Email Template Illustration&quot; style=&quot;display:inline;&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Example of a button inside an email template&lt;/span&gt;
+&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Notice how I used spacing on the top and bottom of the button. I also made it center aligned. These small tweaks make the button standout from the rest of email content and allow readers to see the action button clearly.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Keep it concise&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Don’t explain the action you want your subscriber to take in too long of a phrase. Keep it simple, short and concise. For example instead of saying “Click here to get the offer”, simply say “Get the offer”.&lt;/p&gt;
+&lt;p&gt;That being said, don’t make the action too vague, either.  Pretend you are your reader...what action would you want to take?  Use that as your Call-To-Action button text!&lt;/p&gt;
+&lt;p&gt;Just remember that long text in buttons may decrease font size on mobile screens so they may look weird and loose the focus of your users.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Avoid multiple call to actions&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Decision making should not be hard for your user. Don&#39;t burden them with multiple actions per email. Stick to &lt;em&gt;one call to action per email&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Don’t take this to mean that you should only use one Call-To-Action in your email, period.  Just limit all of your Calls-To-Action to one action that you want your reader to take!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bad Example: &lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Browse Products&lt;/li&gt;
+&lt;li&gt;Check It Out (A single product)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Good Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;...get this offer before midnight today. (A link within email text)&lt;/li&gt;
+&lt;li&gt;Get Offer Now (Button text)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In the bad example: first we offer a way to “Browse Products” and then we ask them to check one of our products. That throws mixed signal to our subscriber and they may not do either thing.  While in the good example, we are using different phrases which are consistent with the one action we want them to take.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Offer value at low or no cost&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;“For every call to action in an email, there is an implied psychological calculus cost in the mind of the customer (value vs cost).” - Marketing Experiments researchers.&lt;/p&gt;
+&lt;p&gt;These masters of split-testing tested different calls-to-action against their own tweaked versions. Their tweaked results are amazing and show immense increase in performance:&lt;/p&gt;
+&lt;p&gt;“Find your solution” vs “Learn More”: 77% increase&lt;/p&gt;
+&lt;p&gt;“Subscribe &amp;amp; Save” vs “View Subscription Options”: +181% increase&lt;/p&gt;
+&lt;p&gt;“Get Started” vs “See How Sermo Works”: +104% increase&lt;/p&gt;
+&lt;p&gt;This study tells that we should avoid selling anything but the click within our emails.  All you&#39;re trying to do is take your subscribers to a landing page.  Let that landing page do the selling! This strategy allows us to give value to our readers at low or no cost in return for the click, which is really all we should be trying to achieve in our emails.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 24 Sep 2014 17:00:00 +0500</pubDate>
-        <link>http://clickhereio.github.io/0924/man-must-explore</link>
-        <guid isPermaLink="true">http://clickhereio.github.io/0924/man-must-explore</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>I believe every human has a finite number of heartbeats. I don&#39;t intend to waste any of mine.</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Sep 2014 17:00:00 +0500</pubDate>
-        <link>http://clickhereio.github.io/0918/i-believe</link>
-        <guid isPermaLink="true">http://clickhereio.github.io/0918/i-believe</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Science has not yet mastered prophecy</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Aug 2014 17:00:00 +0500</pubDate>
-        <link>http://clickhereio.github.io/0824/science-has-not-yet-mastered-prophecy</link>
-        <guid isPermaLink="true">http://clickhereio.github.io/0824/science-has-not-yet-mastered-prophecy</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Failure is not an option</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Jul 2014 17:00:00 +0500</pubDate>
-        <link>http://clickhereio.github.io/0708/failure-is-not-an-option</link>
-        <guid isPermaLink="true">http://clickhereio.github.io/0708/failure-is-not-an-option</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The dreams of yesterday are the hopes of today and the reality of tomorrow.</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jul 2014 17:00:00 +0500</pubDate>
-        <link>http://clickhereio.github.io/0701/dreams</link>
-        <guid isPermaLink="true">http://clickhereio.github.io/0701/dreams</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dinosaurs are extinct today</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Jun 2014 17:00:00 +0500</pubDate>
-        <link>http://clickhereio.github.io/0610/dinosaurs</link>
-        <guid isPermaLink="true">http://clickhereio.github.io/0610/dinosaurs</guid>
+        <pubDate>Sat, 15 Aug 2015 17:00:00 +0500</pubDate>
+        <link>http://clickhereio.github.io/0815/indispensable-guide-to-using-calls-to-action</link>
+        <guid isPermaLink="true">http://clickhereio.github.io/0815/indispensable-guide-to-using-calls-to-action</guid>
         
         
       </item>

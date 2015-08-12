@@ -206,22 +206,33 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #ffffff;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
   color: #f04b4c;
 }
+.post-preview .post-img {
+  padding: 20px;
+  margin-bottom: 20px;
+  min-height: 200px;
+  background-size: 100%;
+}
 .post-preview > a > .post-title {
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 10px;
 }
+.post-preview h2.post-title {
+  font-weight: 300;
+}
 .post-preview > a > .post-subtitle {
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
+  color: #404040;
+  line-height: 30px;
 }
 .post-preview > .post-meta {
   color: #808080;
