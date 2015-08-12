@@ -261,6 +261,92 @@
     </div>
 </footer>
 
+
+<!-- Exit Modal -->
+<div class="modal fade" id="exitChoice" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" style="width:50%;padding:0;">
+        <div class="modal-content" style="border:none;padding:0;">            
+            </div>
+            <div class="modal-body" style="padding:0;">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="text-center">
+                          <img id="Image-Maps-Com-image-maps-2015-08-11-114208" src="/img/exit-graphic-free-template.png" border="0" width="800" height="450" orgWidth="800" orgHeight="450" usemap="#image-maps-2015-08-11-114208" alt="" />
+                          <map name="image-maps-2015-08-11-114208" id="ImageMapsCom-image-maps-2015-08-11-114208">
+                            <area  alt="" title="" href="#" id="showForm" shape="rect" coords="188,339,611,426" style="outline:none;" target="_self"     />
+                            <area shape="rect" coords="798,448,800,450" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_57606" />
+                          </map> 
+                           <!--
+                          <img id="Image-Maps-Com-image-maps-2015-07-31-083414" class="img-responsive" src="images/exit-graphics.png" border="0" width="800" height="450" orgWidth="800" orgHeight="450" usemap="#image-maps-2015-07-31-083414" alt="" />
+                          <map name="image-maps-2015-07-31-083414" id="ImageMapsCom-image-maps-2015-07-31-083414">
+                          <area  alt="" title="" href="https://gumroad.com/l/clickhere/" shape="rect" coords="177,224,461,420" style="outline:none;" target="_self"     />
+                          <area  alt="" title="" href="#No" data-dismiss="modal" shape="rect" coords="480,223,763,420" style="outline:none;" target="_self"     />
+                          <area shape="rect" coords="798,448,800,450" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
+                          </map> -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Sign-up Modal -->
+<div class="modal fade" id="signUp" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="closeicon" data-dismiss="modal" aria-hidden="true">            
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+                                One More Step...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="text-center">
+                            <img class="img-responsive" src="/img/popup-example.png" width="100%" style="margin:0 auto;" />
+                        </div>
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="lead">
+                            Just let us know where to send it:  enter your name and email below and we'll send you the template and instructions immediately.
+                        </div>
+                        <form class="" action="http://ignitionhub.activehosted.com/proc.php" method="post" id="_form_1178" accept-charset="utf-8" enctype="multipart/form-data">
+                          <input type='hidden' name='f' value='1178'>
+                          <input type='hidden' name='s' value=''>
+                          <input type='hidden' name='c' value='0'>
+                          <input type='hidden' name='m' value='0'>
+                          <input type='hidden' name='act' value='sub'>
+                          <input type='hidden' name='nlbox[]' value='10'>
+                          <input type='hidden' name='field[1]' value='email-template'>
+                            <div class="form-group form-group-lg">
+                              <input type="text" class="form-control" name="fullname" placeholder="Your Name">
+                            </div>
+                            <div class="form-group form-group-lg">
+                              <input type="email" class="form-control" name="email" placeholder="Your Best Email Address">
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-block btn-danger btn-lg">Send The Template Right Away!</button>
+                                <div class="text-center"><small><i class="fa fa-lock"></i>&nbsp;&nbsp;We promise never to sell or rent your email address to anyone...ever.</small></div>
+                            </div>                                
+                            <!-- <div class="form-group">
+                                <a href="https://gumroad.com/l/DGNVs" class="btn btn-block btn-success btn-lg" >Pre-Order Now!&nbsp;&nbsp;<i class="fa fa-angle-double-right"></i></a>
+                            </div> -->                                
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
 <!-- jQuery -->
 <script src="/js/jquery.min.js "></script>
 
@@ -268,7 +354,62 @@
 <script src="/js/bootstrap.min.js "></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="/js/clean-blog.min.js "></script>
+<script src="/js/clean-blog.js "></script>
+
+<!-- Ouibiounce -->
+<script src="/js/ouibounce.js "></script>
+
+<script>
+
+  // Fires modal when user exits
+  var _ouibounce = ouibounce(false, {
+      timer: 0,
+      aggressive: true,
+      callback: function() {
+          $('#exitChoice').modal('show');
+      }
+  });
+
+  // Centers modal on fire and resize
+  $(function() {
+      function reposition() {
+          var modal = $(this),
+          dialog = modal.find('.modal-dialog');
+          modal.css('display', 'block');
+          
+          // Dividing by two centers the modal exactly, but dividing by three 
+          // or four works better for larger screens.
+          dialog.css("margin-top", Math.max(0, ($(window).height() - dialog.height()) / 2));
+      }
+      // Reposition when a modal is shown
+      $('.modal').on('show.bs.modal', reposition);
+      // Reposition when the window is resized
+      $(window).on('resize', function() {
+          $('.modal:visible').each(reposition);
+      });
+  });
+
+  function showFormModal() {
+      $("#exitChoice").removeClass("fade").modal("hide");
+      $("#signUp").addClass("fade").modal("show");
+  }
+
+  $("#showForm").on("click", function() {
+      showFormModal();
+  });
+
+ $(function() {
+    $('.scrollto, .gototop').bind('click',function(event){
+     var $anchor = $(this);
+     $('html, body').stop().animate({
+         scrollTop: $($anchor.attr('href')).offset().top
+          }, 1500,'easeInOutExpo');
+     event.preventDefault();
+      });
+  });
+        
+
+</script>
 
 
 
