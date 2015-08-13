@@ -493,6 +493,7 @@ body {
   width: 70%;
   margin-top: -46px;
   position: absolute;
+  border: none;
 }
 .downloadPreview .action-text {
   margin:18px auto;
