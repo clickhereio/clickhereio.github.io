@@ -527,3 +527,7 @@ body {
 .red-text {
   color: #f04b4c;
 }
+
+article img {
+  border: 1px solid #cccccc;
+}
