@@ -499,11 +499,9 @@ body {
 .downloadPreview .action-text {
   margin:18px auto;
   font-size: 22px;
-  text-shadow: 1px 1px 1px #000000;
 }
 .downloadPreview .action-text span {
   font-size: 18px;
-  text-shadow: none;
 }
 
 @media only screen and (max-width: 768px) {
