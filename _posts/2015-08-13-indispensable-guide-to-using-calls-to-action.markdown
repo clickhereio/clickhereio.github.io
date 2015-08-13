@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Indispensable Guide To Using Calls-To-Action In Your Emails"
-subtitle:   "A checklist for your day to day email campaigns"
+title:      "Indispensable Guide To Using Email Calls-To-Action"
+subtitle:   "When and how to use action buttons in your email campaigns"
 date:       2015-08-13 12:00:00
 author:     "Fraz Ahmed"
 header-img: "img/guide-to-calls-to-action.jpg"
