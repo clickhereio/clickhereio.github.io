@@ -2,7 +2,7 @@
 layout:     post
 title:      "Indispensable Guide To Using Calls-To-Action In Your Emails"
 subtitle:   "A checklist for your day to day email campaigns"
-date:       2015-08-15 12:00:00
+date:       2015-08-13 12:00:00
 author:     "Fraz Ahmed"
 header-img: "img/guide-to-calls-to-action.jpg"
 ---
