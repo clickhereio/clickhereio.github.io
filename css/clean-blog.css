@@ -451,3 +451,79 @@ body {
     transform: translate3d(0, -300px, 0);
     opacity: 1;
 } 
+
+/** Download Giveaway Box **/
+.downloadPreview {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ef6464+0,f04b4c+44,ef0202+100 */
+  background: rgb(239,100,100); /* Old browsers */
+  background: -moz-linear-gradient(left,  rgba(239,100,100,1) 0%, rgba(240,75,76,1) 44%, rgba(239,2,2,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(239,100,100,1)), color-stop(44%,rgba(240,75,76,1)), color-stop(100%,rgba(239,2,2,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  rgba(239,100,100,1) 0%,rgba(240,75,76,1) 44%,rgba(239,2,2,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  rgba(239,100,100,1) 0%,rgba(240,75,76,1) 44%,rgba(239,2,2,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  rgba(239,100,100,1) 0%,rgba(240,75,76,1) 44%,rgba(239,2,2,1) 100%); /* IE10+ */
+  background: linear-gradient(to right,  rgba(239,100,100,1) 0%,rgba(240,75,76,1) 44%,rgba(239,2,2,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef6464', endColorstr='#ef0202',GradientType=1 ); /* IE6-9 */
+}
+.downloadPreview:hover {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ef0202+0,f04b4c+44,ef6464+100 */
+  background: rgb(239,2,2); /* Old browsers */
+  background: -moz-linear-gradient(left,  rgba(239,2,2,1) 0%, rgba(240,75,76,1) 44%, rgba(239,100,100,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(239,2,2,1)), color-stop(44%,rgba(240,75,76,1)), color-stop(100%,rgba(239,100,100,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  rgba(239,2,2,1) 0%,rgba(240,75,76,1) 44%,rgba(239,100,100,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  rgba(239,2,2,1) 0%,rgba(240,75,76,1) 44%,rgba(239,100,100,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  rgba(239,2,2,1) 0%,rgba(240,75,76,1) 44%,rgba(239,100,100,1) 100%); /* IE10+ */
+  background: linear-gradient(to right,  rgba(239,2,2,1) 0%,rgba(240,75,76,1) 44%,rgba(239,100,100,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef0202', endColorstr='#ef6464',GradientType=1 ); /* IE6-9 */
+
+}
+.downloadPreview {
+  cursor: pointer;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ae2822;
+
+  margin-top: 75px;
+  min-height: 100px;
+}
+.downloadPreview a {
+  color: #ffffff;
+}
+.downloadPreview img {
+  width: 70%;
+  margin-top: -46px;
+  position: absolute;
+}
+.downloadPreview .action-text {
+  margin:18px auto;
+  font-size: 22px;
+  text-shadow: 1px 1px 1px #000000;
+}
+.downloadPreview .action-text span {
+  font-size: 18px;
+  text-shadow: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .downloadPreview {
+    margin-top: 25px;
+  }
+  .downloadPreview .col-xs-3 {
+    display: none;
+  }
+  .downloadPreview .col-xs-9 {
+    width: 100%;
+  }
+
+  .navbar {
+    margin-top: -51px;
+  }
+  .navbar-brand {
+    padding-top: 75px;
+    position: absolute;
+  }
+}
+
+.red-text {
+  color: #f04b4c;
+}
