@@ -36,7 +36,7 @@ header-img: "img/guide-to-calls-to-action.jpg"
 </p>
 
 <p>Just make sure they are not based on images, or no one may see them!</p>
-<p class="red-text">(<strong>Note: </strong>You can find a bulletproof button in our <strong>"Everyday Bulletproof Email Template"</strong> that is available for <a href="javascript:void(0);" id="showForm">Download</a> for FREE!)</p>
+<p>You can find a bulletproof button in our <strong>"Everyday Bulletproof Email Template"</strong> that is available for <a href="javascript:void(0);" class="showForm">Download</a> for FREE!</p>
 <h2><strong>Decide on placement</strong></h2>
 <p>Calls-To-Action button placement is very important. According to a research conducted by <a href="https://canopylabs.com/blog/optimizing-e-mail-click-rates-how-to-structure-a-call-to-action">Canopylabs</a>, the best place to place your button is at the very bottom of your email, immediately after pitching your message. When they changed the placement of button from “right” to “bottom”, it increased the performance by 143%.</p>
 <p>Bottom placement makes it very easy for your prospect to take an immediate action after reading your message.</p>
@@ -77,11 +77,11 @@ header-img: "img/guide-to-calls-to-action.jpg"
 
 <hr />
 
-<strong>TL;DR</strong> By following above mentioned guidelines, you can expect your calls-to-action to convert with higher rate. To make things simpler for you, we have built a bulletproof email template only for you. Download your copy of the template from below.
+<strong>By following above mentioned guidelines, you can expect your calls-to-action to convert with higher rate. To make things simpler for you, we have built a bulletproof email template only for you. Download your copy of the template from below.</strong>
 
 <!-- Start Download Area -->
 <div class="row downloadPreview">
-    <a href="javascript:void(0);" id="showForm">
+    <a href="javascript:void(0);" class="showForm">
     <div class="col-xs-3"><img src="/img/email-template-download.png" /></div>
     <div class="col-xs-9 text-center action-text">Get Our Ultimate "Everyday" Free Email Template <br><span>Click Here To Download</span></div>
     </a>

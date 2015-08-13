@@ -5,8 +5,8 @@
     <description>Blog dedicated to tips and tricks for higher converting emails</description>
     <link>http://blog.clickhere.io/</link>
     <atom:link href="http://blog.clickhere.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Aug 2015 20:02:27 +0500</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2015 20:02:27 +0500</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2015 20:09:56 +0500</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2015 20:09:56 +0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,7 +40,7 @@
 &lt;/p&gt;
 
 &lt;p&gt;Just make sure they are not based on images, or no one may see them!&lt;/p&gt;
-&lt;p class=&quot;red-text&quot;&gt;(&lt;strong&gt;Note: &lt;/strong&gt;You can find a bulletproof button in our &lt;strong&gt;&quot;Everyday Bulletproof Email Template&quot;&lt;/strong&gt; that is available for &lt;a href=&quot;javascript:void(0);&quot; id=&quot;showForm&quot;&gt;Download&lt;/a&gt; for FREE!)&lt;/p&gt;
+&lt;p&gt;You can find a bulletproof button in our &lt;strong&gt;&quot;Everyday Bulletproof Email Template&quot;&lt;/strong&gt; that is available for &lt;a href=&quot;javascript:void(0);&quot; class=&quot;showForm&quot;&gt;Download&lt;/a&gt; for FREE!&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Decide on placement&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Calls-To-Action button placement is very important. According to a research conducted by &lt;a href=&quot;https://canopylabs.com/blog/optimizing-e-mail-click-rates-how-to-structure-a-call-to-action&quot;&gt;Canopylabs&lt;/a&gt;, the best place to place your button is at the very bottom of your email, immediately after pitching your message. When they changed the placement of button from “right” to “bottom”, it increased the performance by 143%.&lt;/p&gt;
 &lt;p&gt;Bottom placement makes it very easy for your prospect to take an immediate action after reading your message.&lt;/p&gt;
@@ -81,11 +81,11 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; By following above mentioned guidelines, you can expect your calls-to-action to convert with higher rate. To make things simpler for you, we have built a bulletproof email template only for you. Download your copy of the template from below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;By following above mentioned guidelines, you can expect your calls-to-action to convert with higher rate. To make things simpler for you, we have built a bulletproof email template only for you. Download your copy of the template from below.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;!-- Start Download Area --&gt;
 &lt;div class=&quot;row downloadPreview&quot;&gt;
-    &lt;a href=&quot;javascript:void(0);&quot; id=&quot;showForm&quot;&gt;
+    &lt;a href=&quot;javascript:void(0);&quot; class=&quot;showForm&quot;&gt;
     &lt;div class=&quot;col-xs-3&quot;&gt;&lt;img src=&quot;/img/email-template-download.png&quot; /&gt;&lt;/div&gt;
     &lt;div class=&quot;col-xs-9 text-center action-text&quot;&gt;Get Our Ultimate &quot;Everyday&quot; Free Email Template &lt;br /&gt;&lt;span&gt;Click Here To Download&lt;/span&gt;&lt;/div&gt;
     &lt;/a&gt;
