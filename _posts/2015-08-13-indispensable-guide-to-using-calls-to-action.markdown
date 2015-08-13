@@ -1,11 +1,13 @@
 ---
-layout:     post
-title:      "Indispensable Guide To Using Email Calls-To-Action"
-subtitle:   "When and how to use action buttons in your email campaigns"
-date:       2015-08-13 12:00:00
-author:     "Fraz Ahmed"
-header-img: "img/guide-to-calls-to-action.jpg"
+layout: post
+title: "Indispensable Guide To Using Email Calls-To-Action"
+subtitle: When and how to use action buttons in your email campaigns
+date: {}
+author: Fraz Ahmed
+"header-img": "img/guide-to-calls-to-action.jpg"
+published: true
 ---
+
 
 <p>Every single email service provides CTR (Click-Through-Rate) analytics.  Ever wonder why? </p>
 <p>Obviously, CTR is the single most important factor that determines the success of your email campaign.  Without knowing your Click-Through Rate, you have no idea how effective your emails are performing.</p>
@@ -23,7 +25,7 @@ header-img: "img/guide-to-calls-to-action.jpg"
 <li>Decide on placement</li>
 <li>Make it standout</li>
 <li>Keep it concise</li>
-<li>Avoid multiple call to actions</li>
+<li>Avoid multiple calls to action</li>
 <li>Offer value at low or no cost</li>
 </ul>
 <h2><strong>Use “Bulletproof Buttons”</strong></h2>
@@ -78,6 +80,8 @@ header-img: "img/guide-to-calls-to-action.jpg"
 <hr />
 
 <strong>By following above mentioned guidelines, you can expect your calls-to-action to convert with higher rate. To make things simpler for you, we have built a bulletproof email template only for you. Download your copy of the template from below.</strong>
+
+<p>Post your comments, suggestions below and share the article with rest of the world :)</p>
 
 <!-- Start Download Area -->
 <div class="row downloadPreview">
