@@ -533,3 +533,8 @@ article img {
   border: 1px solid #cccccc;
   border-radius: 6px;
 }
+
+.callout {
+  font-size: 28px;
+  color: #888888;
+}

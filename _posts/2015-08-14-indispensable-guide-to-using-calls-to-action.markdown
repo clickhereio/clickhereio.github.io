@@ -36,7 +36,7 @@ header-img: "img/guide-to-calls-to-action.jpg"
 </p>
 
 <p>Just make sure they are not based on images, or no one may see them!</p>
-<p>You can find a bulletproof button in our <strong>"Everyday Bulletproof Email Template"</strong> that is available for <a href="javascript:void(0);" class="showForm">Download</a> for FREE!</p>
+<p class="callout">You can find a bulletproof button in our <strong>"Everyday Bulletproof Email Template"</strong> that is available for <a href="javascript:void(0);" class="showForm">Download</a> for FREE!</p>
 <h2><strong>Decide on placement</strong></h2>
 <p>Calls-To-Action button placement is very important. According to a research conducted by <a href="https://canopylabs.com/blog/optimizing-e-mail-click-rates-how-to-structure-a-call-to-action">Canopylabs</a>, the best place to place your button is at the very bottom of your email, immediately after pitching your message. When they changed the placement of button from “right” to “bottom”, it increased the performance by 143%.</p>
 <p>Bottom placement makes it very easy for your prospect to take an immediate action after reading your message.</p>
