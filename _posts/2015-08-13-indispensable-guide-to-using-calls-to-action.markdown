@@ -83,7 +83,7 @@ published: true
 
 <strong>By following above mentioned guidelines, you can expect your calls-to-action to convert with higher rate. To make things simpler for you, we have built a bulletproof email template only for you. Download your copy of the template from below.</strong>
 
-<p>Post your comments, suggestions below and share the article with rest of the world :)</p>
+<p>Post your comments, suggestions below and share the article with rest of the world :) </p>
 
 <!-- Start Download Area -->
 <div class="row downloadPreview">
