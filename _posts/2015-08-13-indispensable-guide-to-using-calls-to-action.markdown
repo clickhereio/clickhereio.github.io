@@ -10,6 +10,7 @@ published: true
 
 
 
+
 <p>Every single email service provides CTR (Click-Through-Rate) analytics.  Ever wonder why? </p>
 <p>Obviously, CTR is the single most important factor that determines the success of your email campaign.  Without knowing your Click-Through Rate, you have no idea how effective your emails are performing.</p>
 <p>In email campaigns, “Calls-To-Action” are directly responsible for determining CTR. Using higher converting Calls-To-Action inside of your email is more of art than science. A well crafted Call-To-Action may bring more conversion to your emails; and good news is that it is not as hard as you might think to build one.</p>
