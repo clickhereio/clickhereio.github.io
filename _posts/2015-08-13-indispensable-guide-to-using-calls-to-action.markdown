@@ -2,14 +2,10 @@
 layout: post
 title: "Indispensable Guide To Using Email Calls-To-Action"
 subtitle: When and how to use action buttons in your email campaigns
-date: {}
-author: Fraz Ahmed
-"header-img": "img/guide-to-calls-to-action.jpg"
-published: true
+date:       2015-08-13 12:00:00
+author:     "Fraz Ahmed"
+header-img: "img/guide-to-calls-to-action.jpg"
 ---
-
-
-
 
 <p>Every single email service provides CTR (Click-Through-Rate) analytics.  Ever wonder why? </p>
 <p>Obviously, CTR is the single most important factor that determines the success of your email campaign.  Without knowing your Click-Through Rate, you have no idea how effective your emails are performing.</p>
