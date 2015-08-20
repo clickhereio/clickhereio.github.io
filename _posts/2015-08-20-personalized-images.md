@@ -61,6 +61,8 @@ header-img: "img/posts/aug-2015/personalized-images-in-email.jpg"
 	<img src="/img/posts/aug-2015/demo-holiday.jpg" alt="Holiday Wishes">
 </p>
 
+<hr />
+
 <p><strong>As you can easily tell, the opportunities for using personalized images in your emails are only limited by your imagination!  Take some time to think about how to use this effective technique with your own audience; and we’re certain your email click-through rates will sky-rocket as a result.</strong></p>
 
 <p class="callout">To help you get started, we’re giving you a <a href="javascript:void(0);" class="showForm">collection of images and fonts</a> to easily build your own engaging personalized images.</p>
