@@ -4,7 +4,7 @@ title: "Indispensable Guide To Using Email Calls-To-Action"
 subtitle: When and how to use action buttons in your email campaigns
 date:       2015-08-13 12:00:00
 author:     "Fraz Ahmed"
-header-img: "img/guide-to-calls-to-action.jpg"
+header-img: "img/posts/aug-2015/guide-to-calls-to-action.jpg"
 ---
 
 <p>Every single email service provides CTR (Click-Through-Rate) analytics.  Ever wonder why? </p>
@@ -84,7 +84,7 @@ header-img: "img/guide-to-calls-to-action.jpg"
 <!-- Start Download Area -->
 <div class="row downloadPreview">
     <a href="javascript:void(0);" class="showForm">
-    <div class="col-xs-3"><img src="/img/email-template-download.png" /></div>
+    <div class="col-xs-3"><img src="/img/posts/aug-2015/email-template-download.png" /></div>
     <div class="col-xs-9 text-center action-text">Get Our Ultimate "Everyday" Free Email Template <br><span>Click Here To Download</span></div>
     </a>
 </div>
@@ -109,7 +109,7 @@ header-img: "img/guide-to-calls-to-action.jpg"
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="text-center">
-                            <img class="img-responsive" src="/img/popup-example.png" width="100%" style="margin:0 auto;" />
+                            <img class="img-responsive" src="/img/posts/aug-2015/popup-free-template.png" width="100%" style="margin:0 auto;" />
                         </div>
                     </div>
                     <div class="col-sm-8">
